@@ -36,18 +36,20 @@ The tech stack used for this project is the MERN stack to develop this project.
 
 clone the repository by doing the following:
 
-<code> git clone https://github.com/Hammad-Anjum/MealNest.git
+<code>git clone https://github.com/Hammad-Anjum/MealNest.git
 cd MealNest
-
-cd API
-npm install
-npm run dev
 </code>
 
 start the server with the following:
-<code>
+
+<code>cd API
 npm i nodemon
-nodemon server.js
-</code>
+nodemon server.js</code>
+
+start the frontend with the following:
+
+<code>cd Client
+npm i
+npm run dev</code>
 
 
