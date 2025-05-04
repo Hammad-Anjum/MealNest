@@ -41,11 +41,13 @@ cd MealNest
 
 cd API
 npm install
+npm run dev
 </code>
 
 start the server with the following:
 <code>
-npm start
+npm i nodemon
+nodemon server.js
 </code>
 
 
